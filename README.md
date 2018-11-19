@@ -14,7 +14,7 @@ This command should return the latest version of Python.
 By clicking on clone or download -> download ZIP, a ZIP-file will be downloaden to your computer. This file contains the Python-scipts used for the Hangman Game. Unzip the file and save the folder somewhere on your computer (for instance in the Download folder).
 
 ## Running the game
-Open up your terminal and change the directory the the folder where the code for the Hangman Game is stored. I you have stored the folder into the Downloads folder, you have to use the following command:
+Open up your terminal and change the directory to the folder where the code for the Hangman Game is stored. If you have stored the folder into the Downloads folder, you have to use the following command:
 
 > cd Downloads/Hangman_game-master
 
